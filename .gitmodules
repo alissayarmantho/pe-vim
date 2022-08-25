@@ -1,0 +1,12 @@
+[submodule ".vim/bundle/nerdtree"]
+	path = .vim/bundle/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule ".vim/bundle/delimitMate"]
+	path = .vim/bundle/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule ".vim/bundle/vim-rainbow"]
+	path = .vim/bundle/vim-rainbow
+	url = https://github.com/frazrepo/vim-rainbow.git
+[submodule ".vim/bundle/vim-javacomplete2"]
+	path = .vim/bundle/vim-javacomplete2
+	url = https://github.com/artur-shaik/vim-javacomplete2.git
